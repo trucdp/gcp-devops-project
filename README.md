@@ -1,8 +1,4 @@
-GCP DevOps Project
+# Docker Flask Application
+- This is application writen by Python
+- It shall be deploy GKE
 
-Task 1 Creating a GitHub Repo
-
-Task 2 Cloning the repo and setting up our editor 
-
-Task 3 Setting up GitHub repo according to
-DevOps best practices
